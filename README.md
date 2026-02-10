@@ -1,8 +1,6 @@
-# Smart Image Organizer
+# 🪄 Image Wizard
 
-License: MIT License - Free to use and modify
-
-Automatically organize your photos! Sort by date, size, and remove duplicates with ease.
+**Smart Photo Organizer - Sort, Rename, and Deduplicate with Magic!**
 
 
 
